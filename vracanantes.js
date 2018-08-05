@@ -76,12 +76,14 @@ function addListOfShops() {
 
 		// check minimum information to display a marker
 		if (!lat || !lon) {
+			console.log("No coordinates found for shop: id="+shop['id']+" ; name="+name);
 			continue;
 		}
 
 		// Get the type of shop/amenity to manage
 		var type = getType(shopTags['name'], shopTags['shop'], shopTags['amenity'], shopTags['craft']);
 		if (!type) {
+			console.log("No type found for shop: id="+shop['id']+" ; name="+name);
 			continue;
 		}
 
@@ -101,9 +103,12 @@ function addListOfShops() {
 		);
 
 		// Check that popup has been correctly created
-		if (popup && lat && lon) {
-			addMarkerToMap(type, popup, lat, lon);
+		if (!popup) {
+			console.log("No popup found for shop : id="+shop['id']+" ; name="+name);
+			continue;
 		}
+		
+		addMarkerToMap(type, popup, lat, lon);
 	}
 }
 
