@@ -99,6 +99,9 @@ function addListOfShops() {
 				shopTags['addr:city'],
 				shopTags['opening_hours'],
 				shopTags['website'],
+				shopTags['contact:website'],
+				shopTags['facebook'],
+				shopTags['contact:facebook'],
 				type
 		);
 
@@ -126,6 +129,9 @@ function getPopupContent(
 		city,
 		opening_hours,
 		website,
+		contactWebsite,
+		facebookUrl,
+		contactFacebookUrl,
 		type
 ){
 
@@ -149,7 +155,7 @@ function getPopupContent(
 		
 	popup += getHtmlFormattedAddress(housenumber, street, postcode, city);	
 	popup += getHtmlFormattedHours(opening_hours);
-	popup += getHtmlFormattedWebsite(website);
+	popup += getHtmlFormattedWebsite(website, contactWebsite, facebookUrl, contactFacebookUrl);
 	popup += getHtmlFormattedPartnerships(nodeId);
 	return popup;
 }
