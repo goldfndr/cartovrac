@@ -1,8 +1,22 @@
 // Bounds for display
-var boundS = 40;
-var boundW = -7;
-var boundN = 53;
-var boundE = 11;
+var minBoundS = 40;
+var minBoundW = -7;
+var maxBoundN = 53;
+var maxBoundE = 11;
+
+// Get bounds from get parameters and validate them before using it.
+var boundS = Math.max(getQueryParam("boundS") || 0, minBoundS);
+var boundW = Math.max(getQueryParam("boundW") || -180, minBoundW);
+var boundN = Math.min(getQueryParam("boundN") || 90, maxBoundN);
+var boundE = Math.min(getQueryParam("boundE") || 180, maxBoundE);
+if (boundN < boundS || boundE < boundW) {
+	console.error("error - wrong coordinates parameters");
+	boundN = maxBoundN;
+	boundS = minBoundS;
+	boundW = minBoundW;
+	boundE = maxBoundE;
+}
+
 var bounds = new L.LatLngBounds(new L.LatLng(boundN, boundE), new L.LatLng(boundS, boundW));
 
 // Map definition
