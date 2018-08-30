@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.55.4 3079d8ea",
   "osm3s": {
-    "timestamp_osm_base": "2018-08-19T21:13:02Z",
-    "timestamp_areas_base": "2018-08-19T20:04:02Z",
+    "timestamp_osm_base": "2018-08-30T18:59:02Z",
+    "timestamp_areas_base": "2018-08-30T18:08:03Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -392,6 +392,22 @@
 },
 {
   "type": "node",
+  "id": 790043954,
+  "lat": 43.8207854,
+  "lon": 1.7232865,
+  "tags": {
+    "brand": "La Vie Claire",
+    "brand:wikidata": "Q3213589",
+    "brand:wikipedia": "fr:La Vie claire",
+    "bulk_purchase": "yes",
+    "name": "La Vie Claire",
+    "organic": "only",
+    "shop": "convenience",
+    "website": "http://www.lavieclaire.com/magasin-bio/rabastens.html"
+  }
+},
+{
+  "type": "node",
   "id": 809835322,
   "lat": 48.0234429,
   "lon": -1.7379734,
@@ -690,6 +706,21 @@
     "shop": "supermarket",
     "website": "http://www.biocoopjaures-toulouse.com/",
     "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1299829278,
+  "lat": 50.6264900,
+  "lon": 3.0671209,
+  "tags": {
+    "bulk_purchase": "yes",
+    "name": "Robin des bio",
+    "organic": "only",
+    "shop": "convenience",
+    "source": "survey",
+    "website": "http://www.robindesbio.org",
+    "wheelchair": "no"
   }
 },
 {
@@ -1405,6 +1436,7 @@
     "brand:wikipedia": "fr:Biocoop",
     "bulk_purchase": "yes",
     "name": "Biocoop Le Panier Bio",
+    "opening_hours": "Mo-Sa 10:00-20:00",
     "operator": "Panier Bio",
     "organic": "only",
     "phone": "+33 2 97 45 60 70",
@@ -1822,6 +1854,29 @@
     "contact:street": "Rue du Bouffay",
     "name": "Boucherie du Bouffay",
     "shop": "butcher"
+  }
+},
+{
+  "type": "node",
+  "id": 2302548114,
+  "lat": 44.3782817,
+  "lon": 2.5935965,
+  "tags": {
+    "addr:street": "Route d'Espalion",
+    "brand": "La Vie Claire",
+    "brand:wikidata": "Q3213589",
+    "brand:wikipedia": "fr:La Vie claire",
+    "bulk_purchase": "yes",
+    "contact:email": "lavieclaire.onet@orange.fr",
+    "contact:phone": "+33565470849",
+    "contact:website": "http://www.lavieclaire.com/ou-nous-trouver.php?q=ONET+LE+CHATEAU",
+    "name": "La Vie Claire",
+    "opening_hours": "Mo 14:00-19:00; Tu-Th 09:00-12:15,14:00-19:00; Fr,Sa 09:00-19:00; Su off",
+    "operator": "La Vie Claire",
+    "organic": "only",
+    "shop": "supermarket",
+    "source": "survey",
+    "website": "http://www.lavieclaire.com/magasin-bio/onet-le-chateau-rodez.html"
   }
 },
 {
@@ -2754,6 +2809,25 @@
 },
 {
   "type": "node",
+  "id": 3195383769,
+  "lat": 48.2986593,
+  "lon": 4.0745776,
+  "tags": {
+    "brand": "La Vie Claire",
+    "brand:wikidata": "Q3213589",
+    "brand:wikipedia": "fr:La Vie claire",
+    "bulk_purchase": "yes",
+    "level": "1",
+    "name": "La Vie Claire",
+    "opening_hours": "Mo 15:30-19:00, Tu-Sa 08:30-19:00",
+    "organic": "only",
+    "phone": "+33 3 25 73 62 11",
+    "shop": "convenience",
+    "website": "http://www.lavieclaire.com/magasin-bio/troyes.html"
+  }
+},
+{
+  "type": "node",
   "id": 3199951922,
   "lat": 48.8418650,
   "lon": 2.3028578,
@@ -2886,6 +2960,22 @@
 },
 {
   "type": "node",
+  "id": 3319604902,
+  "lat": 49.8955512,
+  "lon": 2.2964643,
+  "tags": {
+    "brand": "La Vie Claire",
+    "brand:wikidata": "Q3213589",
+    "brand:wikipedia": "fr:La Vie claire",
+    "bulk_purchase": "yes",
+    "name": "La Vie Claire",
+    "organic": "only",
+    "shop": "convenience",
+    "website": "http://www.lavieclaire.com/magasin-bio/amiens.html"
+  }
+},
+{
+  "type": "node",
   "id": 3333942666,
   "lat": 47.0487570,
   "lon": -1.6347666,
@@ -2900,6 +2990,29 @@
     "organic": "only",
     "shop": "convenience",
     "website": "https://www.biocoop.fr/magasins-bio/Trouver-mon-magasin-Biocoop/Pays-de-la-Loire/Loire-Atlantique/BIOCOOP-DU-LAC"
+  }
+},
+{
+  "type": "node",
+  "id": 3353574603,
+  "lat": 47.4404095,
+  "lon": -1.4978503,
+  "tags": {
+    "addr:city": "Nort-sur-Erdre",
+    "addr:housenumber": "9",
+    "addr:postcode": "44390",
+    "addr:street": "Rue des Mariniers",
+    "bulk_purchase": "only",
+    "contact:email": "doseepicerie@gmail.com",
+    "contact:facebook": "https://www.facebook.com/Doseepiceriesansemballagenortsurerdre/",
+    "description": "Boutique sans emballage. Produits alimentaires (farine,céréales,pâtes...), produits du quotidien (lessive…)",
+    "name": "Dose - Epicerie sans emballage",
+    "office": "accountant",
+    "opening_hours": "Tu-Sa 10:00-13:00,15:00-19:00; Su 10:00-13:00",
+    "organic": "only",
+    "shop": "convenience",
+    "source": "Association Mieux trier à Nantes, 08/2018",
+    "website": "https://fr.ulule.com/epiceriedose/"
   }
 },
 {
@@ -2942,16 +3055,17 @@
 {
   "type": "node",
   "id": 3409181065,
-  "lat": 47.3755787,
-  "lon": -1.1947395,
+  "lat": 47.3755109,
+  "lon": -1.1947238,
   "tags": {
     "addr:city": "Saint-Géréon",
     "addr:housenumber": "104",
     "addr:postcode": "44150",
     "addr:street": "Rue du Bocage",
+    "brand": "Biocoop",
     "bulk_purchase": "yes",
-    "name": "Biocoop",
-    "opening_hours": "Mo 14:00-19:00; Tu-Sa 09:00-12:30, 14:00-19:00; Su off",
+    "name": "Biocoop Ancenis",
+    "opening_hours": "Mo 14:00-19:00; Tu-Sa 09:00-19:00; Su off",
     "organic": "only",
     "phone": "+33 2 40831925",
     "shop": "supermarket",
@@ -3078,6 +3192,8 @@
     "addr:postcode": "44300",
     "addr:street": "Route de Sainte-Luce",
     "name": "La boule carré",
+    "note:payment:meal_voucher": "minimum 6 euros",
+    "payment:meal_voucher": "yes",
     "shop": "bakery"
   }
 },
@@ -3309,6 +3425,22 @@
 },
 {
   "type": "node",
+  "id": 3687472437,
+  "lat": 41.9129887,
+  "lon": 8.7247090,
+  "tags": {
+    "brand": "La Vie Claire",
+    "brand:wikidata": "Q3213589",
+    "brand:wikipedia": "fr:La Vie claire",
+    "bulk_purchase": "yes",
+    "name": "La Vie Claire",
+    "organic": "only",
+    "shop": "convenience",
+    "website": "http://www.lavieclaire.com/magasin-bio/albert.html"
+  }
+},
+{
+  "type": "node",
   "id": 3747772445,
   "lat": 48.9390138,
   "lon": 2.1580575,
@@ -3509,6 +3641,22 @@
     "shop": "supermarket",
     "website": "https://www.biocoop.fr/magasins-bio/Trouver-mon-magasin-Biocoop/Bretagne/Cotes-d-Armor/BIOCOOP-DOUAR-BIHAN",
     "wikipedia": "fr:Biocoop"
+  }
+},
+{
+  "type": "node",
+  "id": 3900090057,
+  "lat": 49.4175657,
+  "lon": 2.8229882,
+  "tags": {
+    "brand": "La Vie Claire",
+    "brand:wikidata": "Q3213589",
+    "brand:wikipedia": "fr:La Vie claire",
+    "bulk_purchase": "yes",
+    "name": "La Vie Claire",
+    "organic": "yes",
+    "shop": "convenience",
+    "website": "http://www.lavieclaire.com/magasin-bio/compiegne.html"
   }
 },
 {
@@ -4117,6 +4265,7 @@
     "brand:wikidata": "Q2904039",
     "bulk_purchase": "yes",
     "name": "Biocoop",
+    "opening_hours": "Tu-Sa 09:30-19:00; Mo 14:30-19:00",
     "operator": "Alençon Bio",
     "organic": "only",
     "phone": "+33 2 33 28 69 50",
@@ -4249,6 +4398,28 @@
 },
 {
   "type": "node",
+  "id": 4285279598,
+  "lat": 43.6168577,
+  "lon": 1.4372097,
+  "tags": {
+    "addr:city": "Toulouse",
+    "addr:housenumber": "16",
+    "addr:postcode": "31200",
+    "addr:street": "Avenue des Minimes",
+    "bulk_purchase": "yes",
+    "email": "bonjour@ceci-et-cela.fr",
+    "name": "Ceci & cela",
+    "opening_hours": "Mo 14:00-19:30; Tu-Sa 10:00-20:00",
+    "organic": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "phone": "+33 5 31 22 57 05",
+    "shop": "convenience",
+    "website": "http://ceci-et-cela.fr/"
+  }
+},
+{
+  "type": "node",
   "id": 4288636890,
   "lat": 48.5135634,
   "lon": -2.7625306,
@@ -4263,6 +4434,28 @@
     "phone": "+33 2 96 70 00 74",
     "shop": "supermarket",
     "website": "http://lagambille.biocoop.net/"
+  }
+},
+{
+  "type": "node",
+  "id": 4294514721,
+  "lat": 48.8965550,
+  "lon": 2.2877776,
+  "tags": {
+    "addr:city": "Levallois-Perret",
+    "addr:housenumber": "64",
+    "addr:postcode": "92300",
+    "addr:street": "Rue Rivay",
+    "brand": "Bio c' Bon",
+    "bulk_purchase": "yes",
+    "name": "Bio c' Bon Levallois",
+    "opening_hours": "Mo-Sa 10:00-20:00; Sun 10:00-13:00",
+    "organic": "only",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "phone": "+33 1 85 60 61 95",
+    "shop": "supermarket",
+    "website": "https://bio-c-bon.eu/fr/nos_magasins/bio-c-bon-levallois"
   }
 },
 {
@@ -4598,6 +4791,22 @@
 },
 {
   "type": "node",
+  "id": 4434587736,
+  "lat": 47.4903443,
+  "lon": 3.9078129,
+  "tags": {
+    "brand": "La Vie Claire",
+    "brand:wikidata": "Q3213589",
+    "brand:wikipedia": "fr:La Vie claire",
+    "bulk_purchase": "yes",
+    "name": "La Vie Claire",
+    "organic": "only",
+    "shop": "convenience",
+    "website": "http://www.lavieclaire.com/magasin-bio/avallon.html"
+  }
+},
+{
+  "type": "node",
   "id": 4436466656,
   "lat": 43.9540188,
   "lon": 2.8936953,
@@ -4845,8 +5054,8 @@
 {
   "type": "node",
   "id": 4512195230,
-  "lat": 47.3928514,
-  "lon": 0.6809829,
+  "lat": 47.3928378,
+  "lon": 0.6810171,
   "tags": {
     "addr:city": "Tours",
     "addr:housenumber": "109",
@@ -4856,7 +5065,7 @@
     "bulk_purchase": "only",
     "contact:phone": "+33 2 36 97 00 02",
     "description": "Alimentation, Cosmétiques et Droguerie en vrac...",
-    "name": "day by day",
+    "name": "Day by day",
     "opening_hours": "Tu-Sa 09:30-13:00,14:30-19:00",
     "organic": "yes",
     "phone": "+33 2 36 97 00 02",
@@ -5955,6 +6164,22 @@
 },
 {
   "type": "node",
+  "id": 4948425156,
+  "lat": 45.5428950,
+  "lon": 3.2481308,
+  "tags": {
+    "brand": "La Vie Claire",
+    "brand:wikidata": "Q3213589",
+    "brand:wikipedia": "fr:La Vie claire",
+    "bulk_purchase": "yes",
+    "name": "La Vie Claire",
+    "organic": "only",
+    "shop": "convenience",
+    "website": "http://www.lavieclaire.com/magasin-bio/issoire.html"
+  }
+},
+{
+  "type": "node",
   "id": 4951415548,
   "lat": 44.4282924,
   "lon": 5.7181098,
@@ -6005,6 +6230,26 @@
     "phone": "+33 3 21 32 65 53",
     "shop": "supermarket",
     "website": "http://www.biocoop-boulognesurmer.fr"
+  }
+},
+{
+  "type": "node",
+  "id": 4954881771,
+  "lat": 50.6995056,
+  "lon": 1.6067930,
+  "tags": {
+    "addr:city": "Outreau",
+    "addr:housenumber": "6",
+    "addr:postcode": "62230",
+    "addr:street": "Rue Camille Desmoulins",
+    "bulk_purchase": "yes",
+    "contact:facebook": "https://www.facebook.com/BBGbiobongourmand/",
+    "name": "Bio Bon Gourmand Outreau",
+    "opening_hours": "Mo-Fr 09:30-19:30; Sa 09:00-19:30; Su 09:30-12:30; ",
+    "organic": "only",
+    "phone": "+33 3 21 31 17 16",
+    "shop": "supermarket",
+    "website": "http://www.bbgmarket.com"
   }
 },
 {
@@ -6248,6 +6493,22 @@
 },
 {
   "type": "node",
+  "id": 5039848488,
+  "lat": 50.4519044,
+  "lon": 1.6153711,
+  "tags": {
+    "brand": "La Vie Claire",
+    "brand:wikidata": "Q3213589",
+    "brand:wikipedia": "fr:La Vie claire",
+    "bulk_purchase": "yes",
+    "name": "La Vie Claire",
+    "organic": "yes",
+    "shop": "supermarket",
+    "website": "http://www.lavieclaire.com/magasin-bio/merlimont.html"
+  }
+},
+{
+  "type": "node",
   "id": 5042592599,
   "lat": 49.1027509,
   "lon": 1.4549129,
@@ -6426,10 +6687,13 @@
     "bulk_purchase": "yes",
     "contact:phone": "+33 2 99 72 21 08",
     "contact:website": "http://leheronbleu.biocoop.net",
-    "name": "Biocoop",
+    "name": "Danett music",
+    "opening_hours": "Tu-Sa 10:00-19:30",
     "operator": "Le Héron Bleu",
     "organic": "only",
+    "phone": "+33 2 23 63 91 50",
     "shop": "supermarket",
+    "website": "https://danett-music.business.site",
     "wheelchair": "yes"
   }
 },
@@ -6490,6 +6754,27 @@
 },
 {
   "type": "node",
+  "id": 5163090885,
+  "lat": 50.6271715,
+  "lon": 3.0489656,
+  "tags": {
+    "branch": "Lille Wazemmes",
+    "brand": "Naturalia",
+    "brand:wikidata": "Q3337081",
+    "brand:wikipedia": "fr:Naturalia",
+    "bulk_purchase": "yes",
+    "contact:website": "https://magasins.naturalia.fr/produits-bio/lille-wazemmes/4007",
+    "name": "Naturalia",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 09:00-13:00",
+    "organic": "only",
+    "shop": "convenience",
+    "source": "survey",
+    "survey:date": "2017-10",
+    "website": "https://magasins.naturalia.fr/produits-bio/neuilly-mairie/3875"
+  }
+},
+{
+  "type": "node",
   "id": 5167581550,
   "lat": 48.5677208,
   "lon": -3.8541278,
@@ -6543,6 +6828,20 @@
     "shop": "convenience",
     "start_date": "2017-12-06",
     "website": "http://www.la-petite-reserve.fr/"
+  }
+},
+{
+  "type": "node",
+  "id": 5191303069,
+  "lat": 50.6150419,
+  "lon": 3.1228322,
+  "tags": {
+    "bulk_purchase": "yes",
+    "contact:facebook": "https://www.facebook.com/BBGbiobongourmand/",
+    "name": "Bio Bon Gourmand",
+    "organic": "only",
+    "shop": "supermarket",
+    "website": "http://www.bbgmarket.com"
   }
 },
 {
@@ -8399,8 +8698,8 @@
 {
   "type": "node",
   "id": 5579129208,
-  "lat": 46.7134502,
-  "lon": -1.9429696,
+  "lat": 46.7136341,
+  "lon": -1.9432727,
   "tags": {
     "addr:city": "Saint-Hilaire-de-Riez",
     "addr:housenumber": "12",
@@ -8411,6 +8710,23 @@
     "organic": "only",
     "shop": "supermarket",
     "website": "http://www.biocoopgraindesel.fr/"
+  }
+},
+{
+  "type": "node",
+  "id": 5579237647,
+  "lat": 50.2911059,
+  "lon": 2.7781472,
+  "tags": {
+    "brand": "La Vie Claire",
+    "brand:wikidata": "Q3213589",
+    "brand:wikipedia": "fr:La Vie claire",
+    "bulk_purchase": "yes",
+    "name": "La Vie Claire",
+    "organic": "only",
+    "shop": "supermarket",
+    "website": "http://www.lavieclaire.com/magasin-bio/arras.html",
+    "wheelchair": "limited"
   }
 },
 {
@@ -8953,6 +9269,22 @@
 },
 {
   "type": "node",
+  "id": 5613918461,
+  "lat": 50.6821126,
+  "lon": 3.0654752,
+  "tags": {
+    "bulk_purchase": "yes",
+    "contact:facebook": "https://www.facebook.com/BBGbiobongourmand/",
+    "name": "Bio Bon Gourmand",
+    "organic": "only",
+    "shop": "supermarket",
+    "source": "survey",
+    "survey:date": "2018-05",
+    "website": "http://www.bbgmarket.com"
+  }
+},
+{
+  "type": "node",
   "id": 5618124489,
   "lat": 43.4589796,
   "lon": -1.5409723,
@@ -9303,6 +9635,24 @@
     "name": "Épicerie Hüeck",
     "organic": "yes",
     "shop": "convenience"
+  }
+},
+{
+  "type": "node",
+  "id": 5736744045,
+  "lat": 46.4647043,
+  "lon": 4.1150917,
+  "tags": {
+    "brand": "La Vie Claire",
+    "brand:wikidata": "Q3213589",
+    "brand:wikipedia": "fr:La Vie claire",
+    "bulk_purchase": "yes",
+    "name": "La Vie Claire",
+    "organic": "only",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "shop": "supermarket",
+    "website": "http://www.lavieclaire.com/magasin-bio/paray-le-monial.html-0"
   }
 },
 {
@@ -9680,8 +10030,13 @@
   "lat": 44.9928471,
   "lon": -0.4483591,
   "tags": {
+    "addr:city": "saint andré de cubzac",
+    "addr:housenumber": "7",
+    "addr:postcode": "33240",
+    "addr:street": "Rue du Commandant Cousteau",
     "bulk_purchase": "only",
     "contact:facebook": "https://www.facebook.com/aucomptoirlocal",
+    "description": "Epicerie en vrac de produits locaux ou bio",
     "name": "Au Comptoir Local",
     "organic": "only",
     "shop": "convenience"
@@ -9915,19 +10270,6 @@
     "bulk_purchase": "only",
     "contact:facebook": "https://www.facebook.com/LePetitPot.Avignon/",
     "name": "Le Petit Pot",
-    "organic": "only",
-    "shop": "convenience"
-  }
-},
-{
-  "type": "node",
-  "id": 5817771759,
-  "lat": 48.8373455,
-  "lon": -1.5930724,
-  "tags": {
-    "bulk_purchase": "only",
-    "contact:facebook": "https://www.facebook.com/MonPanierMalice",
-    "name": "Mon Panier Malice",
     "organic": "only",
     "shop": "convenience"
   }
@@ -10960,6 +11302,283 @@
   }
 },
 {
+  "type": "node",
+  "id": 5844729827,
+  "lat": 47.9747913,
+  "lon": 3.5108526,
+  "tags": {
+    "brand": "La Vie Claire",
+    "brand:wikidata": "Q3213589",
+    "brand:wikipedia": "fr:La Vie claire",
+    "bulk_purchase": "yes",
+    "name": "La Vie Claire",
+    "organic": "only",
+    "shop": "supermarket",
+    "website": "http://www.lavieclaire.com/magasin-bio/migennes.html"
+  }
+},
+{
+  "type": "node",
+  "id": 5844729828,
+  "lat": 43.3480526,
+  "lon": -1.7708754,
+  "tags": {
+    "brand": "La Vie Claire",
+    "brand:wikidata": "Q3213589",
+    "brand:wikipedia": "fr:La Vie claire",
+    "bulk_purchase": "yes",
+    "name": "La Vie Claire",
+    "organic": "only",
+    "shop": "supermarket",
+    "website": "http://www.lavieclaire.com/magasin-bio/hendaye.html"
+  }
+},
+{
+  "type": "node",
+  "id": 5844729829,
+  "lat": 43.4907073,
+  "lon": -0.7812801,
+  "tags": {
+    "brand": "La Vie Claire",
+    "brand:wikidata": "Q3213589",
+    "brand:wikipedia": "fr:La Vie claire",
+    "bulk_purchase": "yes",
+    "name": "La Vie Claire",
+    "organic": "only",
+    "shop": "supermarket",
+    "website": "http://www.lavieclaire.com/magasin-bio/pau-orthez.html"
+  }
+},
+{
+  "type": "node",
+  "id": 5844729830,
+  "lat": 43.4079083,
+  "lon": -1.6209711,
+  "tags": {
+    "brand": "La Vie Claire",
+    "brand:wikidata": "Q3213589",
+    "brand:wikipedia": "fr:La Vie claire",
+    "bulk_purchase": "yes",
+    "name": "La Vie Claire",
+    "organic": "only",
+    "shop": "supermarket",
+    "website": "http://www.lavieclaire.com/magasin-bio/saint-jean-de-luz.html"
+  }
+},
+{
+  "type": "node",
+  "id": 5859163116,
+  "lat": 50.9696254,
+  "lon": 2.4324980,
+  "tags": {
+    "bulk_purchase": "yes",
+    "contact:website": "https://alternatives-bergues.fr/",
+    "description": "Pour une maison éco-responsable",
+    "name": "Alternatives",
+    "shop": "houseware",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 5861052693,
+  "lat": 43.7805488,
+  "lon": 1.3519943,
+  "tags": {
+    "brand": "La Vie Claire",
+    "brand:wikidata": "Q3213589",
+    "brand:wikipedia": "fr:La Vie claire",
+    "bulk_purchase": "yes",
+    "name": "La Vie Claire",
+    "organic": "only",
+    "shop": "convenience",
+    "website": "http://www.lavieclaire.com/magasin-bio/castelnau-destretefonds.html"
+  }
+},
+{
+  "type": "node",
+  "id": 5862290763,
+  "lat": 49.5696220,
+  "lon": 3.6393445,
+  "tags": {
+    "brand": "La Vie Claire",
+    "brand:wikidata": "Q3213589",
+    "brand:wikipedia": "fr:La Vie claire",
+    "bulk_purchase": "yes",
+    "name": "La Vie Claire",
+    "organic": "only",
+    "shop": "supermarket",
+    "website": "http://www.lavieclaire.com/magasin-bio/laon.html"
+  }
+},
+{
+  "type": "node",
+  "id": 5862290764,
+  "lat": 50.9571360,
+  "lon": 1.8499754,
+  "tags": {
+    "brand": "La Vie Claire",
+    "brand:wikidata": "Q3213589",
+    "brand:wikipedia": "fr:La Vie claire",
+    "bulk_purchase": "yes",
+    "name": "La Vie Claire",
+    "organic": "only",
+    "shop": "supermarket",
+    "website": "http://www.lavieclaire.com/magasin-bio/calais.html"
+  }
+},
+{
+  "type": "node",
+  "id": 5862290765,
+  "lat": 43.6510912,
+  "lon": 1.3351250,
+  "tags": {
+    "brand": "La Vie Claire",
+    "brand:wikidata": "Q3213589",
+    "brand:wikipedia": "fr:La Vie claire",
+    "bulk_purchase": "yes",
+    "name": "La Vie Claire",
+    "organic": "only",
+    "shop": "supermarket",
+    "website": "http://www.lavieclaire.com/magasin-bio/cornebarrieu.html"
+  }
+},
+{
+  "type": "node",
+  "id": 5862290766,
+  "lat": 49.8464604,
+  "lon": 3.2856756,
+  "tags": {
+    "brand": "La Vie Claire",
+    "brand:wikidata": "Q3213589",
+    "brand:wikipedia": "fr:La Vie claire",
+    "bulk_purchase": "yes",
+    "name": "La Vie Claire",
+    "organic": "only",
+    "shop": "supermarket",
+    "website": "http://www.lavieclaire.com/magasin-bio/saint-quentin.html"
+  }
+},
+{
+  "type": "node",
+  "id": 5862290767,
+  "lat": 43.9956220,
+  "lon": 1.3363759,
+  "tags": {
+    "brand": "La Vie Claire",
+    "brand:wikidata": "Q3213589",
+    "brand:wikipedia": "fr:La Vie claire",
+    "bulk_purchase": "yes",
+    "name": "La Vie Claire",
+    "organic": "only",
+    "shop": "supermarket",
+    "website": "http://www.lavieclaire.com/magasin-bio/montauban.html"
+  }
+},
+{
+  "type": "node",
+  "id": 5862290768,
+  "lat": 49.0456759,
+  "lon": 3.4021071,
+  "tags": {
+    "brand": "La Vie Claire",
+    "brand:wikidata": "Q3213589",
+    "brand:wikipedia": "fr:La Vie claire",
+    "bulk_purchase": "yes",
+    "name": "La Vie Claire",
+    "organic": "only",
+    "shop": "supermarket",
+    "website": "http://www.lavieclaire.com/magasin-bio/chateau-thierry.html"
+  }
+},
+{
+  "type": "node",
+  "id": 5862290769,
+  "lat": 44.9127769,
+  "lon": 2.4453590,
+  "tags": {
+    "brand": "La Vie Claire",
+    "brand:wikidata": "Q3213589",
+    "brand:wikipedia": "fr:La Vie claire",
+    "bulk_purchase": "yes",
+    "name": "La Vie Claire",
+    "organic": "only",
+    "shop": "supermarket",
+    "website": "http://www.lavieclaire.com/magasin-bio/aurillac.html"
+  }
+},
+{
+  "type": "node",
+  "id": 5862290770,
+  "lat": 50.0021546,
+  "lon": 2.3140943,
+  "tags": {
+    "brand": "La Vie Claire",
+    "brand:wikidata": "Q3213589",
+    "brand:wikipedia": "fr:La Vie claire",
+    "bulk_purchase": "yes",
+    "name": "La Vie Claire",
+    "organic": "only",
+    "shop": "supermarket",
+    "website": "http://www.lavieclaire.com/magasin-bio/villers-bocage.html"
+  }
+},
+{
+  "type": "node",
+  "id": 5863923657,
+  "lat": 50.7377864,
+  "lon": 2.5501680,
+  "tags": {
+    "bulk_purchase": "yes",
+    "contact:facebook": "https://www.facebook.com/BBGbiobongourmand/",
+    "name": "Bio Bon Gourmand",
+    "organic": "only",
+    "shop": "supermarket",
+    "website": "http://www.bbgmarket.com"
+  }
+},
+{
+  "type": "node",
+  "id": 5863923658,
+  "lat": 50.6403885,
+  "lon": 2.9689905,
+  "tags": {
+    "bulk_purchase": "yes",
+    "contact:facebook": "https://www.facebook.com/BBGbiobongourmand/",
+    "name": "Bio Bon Gourmand",
+    "organic": "only",
+    "shop": "supermarket",
+    "website": "http://www.bbgmarket.com"
+  }
+},
+{
+  "type": "node",
+  "id": 5864011854,
+  "lat": 50.6823918,
+  "lon": 3.1587693,
+  "tags": {
+    "bulk_purchase": "yes",
+    "contact:facebook": "https://www.facebook.com/cecinestpasuneboulangerie/",
+    "description": "Fournil, épicerie vrac et galerie à la fois.",
+    "name": "Ceci n'est pas une Boulangerie",
+    "organic": "yes",
+    "shop": "convenience",
+    "website": "https://www.cecinestpasuneboulangerie.fr"
+  }
+},
+{
+  "type": "node",
+  "id": 5867522816,
+  "lat": 47.3351146,
+  "lon": 5.0445127,
+  "tags": {
+    "bulk_purchase": "only",
+    "name": "Au gramme près",
+    "opening_hours": "Mo 14:00-19:00; Tu-Sa 10:00-19:00",
+    "shop": "convenience"
+  }
+},
+{
   "type": "way",
   "id": 35739853,
   "center": {
@@ -11375,6 +11994,37 @@
     "shop": "supermarket",
     "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
     "website": "http://www.lavieclaire.com/magasin-bio/jarnac.html"
+  }
+},
+{
+  "type": "way",
+  "id": 62846781,
+  "center": {
+    "lat": 45.7530512,
+    "lon": 3.1378993
+  },
+  "nodes": [
+    782390338,
+    782412528,
+    782428877,
+    782376303,
+    782388478,
+    782417536,
+    782482569,
+    5853324258,
+    782390338
+  ],
+  "tags": {
+    "brand": "La Vie Claire",
+    "brand:wikidata": "Q3213589",
+    "brand:wikipedia": "fr:La Vie claire",
+    "building": "yes",
+    "bulk_purchase": "yes",
+    "name": "La vie Claire",
+    "organic": "only",
+    "shop": "supermarket",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+    "website": "http://www.lavieclaire.com/magasin-bio/aubiere.html"
   }
 },
 {
@@ -13369,7 +14019,7 @@
     "building": "yes",
     "bulk_purchase": "yes",
     "fax": "+33 4 42 64 43 28",
-    "name": "La Coumpagnié",
+    "name": "Biocoop",
     "opening_hours": "Mo-Sa 09:30-19:30",
     "organic": "only",
     "phone": "+33 4 42 59 33 43",
@@ -13719,14 +14369,14 @@
     "addr:street": "Avenue Carnot",
     "building": "yes",
     "bulk_purchase": "yes",
+    "contact:email": "bio-carnot@orange.fr",
+    "contact:phone": "+33 5 34 44 71 67",
     "diet:vegan": "yes",
     "diet:vegetarian": "yes",
-    "email": "bio-carnot@orange.fr",
     "name": "Biocoop 4 Pavillions",
-    "opening_hours": "Mon11:00-20:00; Tu-Sa 10:00-20:00",
+    "opening_hours": "Mo 11:00-20:00; Tu-Sa 10:00-20:00",
     "operator": "Biocoop",
     "organic": "only",
-    "phone": "+33 5 34 44 71 67",
     "shop": "supermarket",
     "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
     "website": "http://www.biocoop4pavillons.com/"
@@ -15379,7 +16029,7 @@
     2074957921
   ],
   "tags": {
-    "addr:city": "auray",
+    "addr:city": "Auray",
     "addr:postcode": "56400",
     "addr:street": "Avenue de l'Océan",
     "brand": "La Vie Claire",
@@ -15524,6 +16174,36 @@
     "organic": "only",
     "payment:cash:XLT-SVLT": "yes",
     "shop": "supermarket"
+  }
+},
+{
+  "type": "way",
+  "id": 220026886,
+  "center": {
+    "lat": 50.3816995,
+    "lon": 3.4759825
+  },
+  "nodes": [
+    2291485709,
+    2291485702,
+    2291485678,
+    2291485680,
+    2291485670,
+    2291485661,
+    2291485651,
+    2291485657,
+    2291485669,
+    2291485709
+  ],
+  "tags": {
+    "building": "yes",
+    "bulk_purchase": "yes",
+    "contact:facebook": "https://www.facebook.com/BBGbiobongourmand/",
+    "name": "Bio Bon Gourmand",
+    "organic": "only",
+    "shop": "supermarket",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2013",
+    "website": "http://www.bbgmarket.com"
   }
 },
 {
