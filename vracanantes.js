@@ -23,11 +23,14 @@ var bounds = new L.LatLngBounds(new L.LatLng(boundN, boundE), new L.LatLng(bound
 var maxZoom = 17;
 var minZoom = 5;
 var defaultZoom = 6;
-var mapCenter = new L.latLng(47,2);
+var zoom = getQueryParam("zoom") || 6;
+var centerLat = getQueryParam("lat") || 47;
+var centerLng = getQueryParam("lng") || 2;
+var mapCenter = new L.latLng(centerLat, centerLng);
 var map = L.map('map', {
 		fullscreenControl: true,
 		center: mapCenter,
-		zoom: defaultZoom,
+		zoom: zoom,
 		minZoom: minZoom,
 		maxZoom: maxZoom,
 		maxBounds: bounds
